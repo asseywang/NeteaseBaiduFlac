@@ -1,8 +1,10 @@
 ### 网易云音乐歌单flac文件下载
 
-基于https://github.com/YongHaoWu/NeteaseCloudMusicFlac（python）
+基于
 
-​	https://github.com/lifei6671/NeteaseCloudMusicFlac（go）
+（python）https://github.com/YongHaoWu/NeteaseCloudMusicFlac
+
+​（go）https://github.com/lifei6671/NeteaseCloudMusicFlac
 
 
 
